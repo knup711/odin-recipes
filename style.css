@@ -1,0 +1,40 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    font-weight: bold;
+    text-decoration: underline;
+    text-shadow: rgb(122, 122, 122) 4px 3px 0px;
+}
+
+.h2 {
+    text-decoration: underline;
+    font-weight: inherit;
+}
+
+.click-recipe {
+        color: rgb(255, 255, 255); 
+        font-size: 27px; 
+        line-height: 27px; 
+        padding: 6px; 
+        border-radius: 14px; 
+        font-family: Georgia, serif; 
+        font-weight: normal; 
+        text-decoration: underline solid 
+        rgb(104, 211, 197); 
+        font-style: normal; 
+        font-variant: normal; 
+        text-transform: none; 
+        background-image: linear-gradient(to right, rgb(126, 216, 208) 0%, rgb(120, 188, 233) 50%, rgb(77, 189, 197) 100%); 
+        box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; 
+        border: 2px solid rgb(28, 110, 164); 
+        display: inline-block;
+    }
+
+.image {
+    width: 800px;
+    height: auto;
+}
+
+
